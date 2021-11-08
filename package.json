@@ -1,0 +1,71 @@
+{
+  "name": "open-react-template",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "^4.3.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-brands-svg-icons": "^5.15.1",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/icons": "^4.11.2",
+    "antd": "^4.9.4",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.5.3",
+    "brew": "0.0.8",
+    "classnames": "^2.2.6",
+    "framer-motion": "^3.1.1",
+    "leaflet": "^1.7.1",
+    "lodash": "^4.17.21",
+    "material-auto-rotating-carousel": "^3.0.2",
+    "mkcert": "^1.4.0",
+    "node-sass": "^4.13.1",
+    "preact": "^8.1.0",
+    "react": "^16.14.0",
+    "react-360-cli": "^1.1.0",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "^16.14.0",
+    "react-ga": "^2.7.0",
+    "react-leaflet": "^3.0.5",
+    "react-measure": "^2.5.2",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.4.4",
+    "react-spring": "^8.0.27",
+    "react-spring-3d-carousel": "^1.2.0",
+    "react-swipeable-views": "^0.13.9",
+    "react-use-gesture": "^8.0.1",
+    "reactstrap": "^8.9.0",
+    "styled-components": "^5.2.1",
+    "three": "^0.125.2",
+    "three-gltf-loader": "^1.111.0",
+    "three-orbitcontrols": "^2.110.3",
+    "uuid": "^8.3.2",
+    "videojs": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wondimagagnzewudu/OTC.git"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {}
+}
